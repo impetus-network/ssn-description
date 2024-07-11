@@ -14,11 +14,9 @@ After completing onboarding, users will be directed to the Home Page. The Home P
 **User Section:**  
 
 - **User Profile:**
-  - **Personal Information:** Display name, age, location, bio, sport and position details, city of play, list of clubs, and federations joined.
+  - **Personal Information:** Display name, age, location, bio, sport and position details, city of play, list of clubs, and federations joined, achivements
   - **Activity Log:** Record of recent activities and events participated in.
   - **Edit Profile:** Option to update personal information and preferences.
-  - **Achievements:** Badges or awards earned through the app.
-
 - **Settings:**
   - **Account Settings:** Account linking and notification preferences.
   - **App Preferences:** Dark/light mode, language, and other preferences.
